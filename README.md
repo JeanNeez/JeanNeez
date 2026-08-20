@@ -14,7 +14,7 @@ Building backend systems, APIs, multiplayer experiences and scalable web applica
 
 **About Me**
 
-I'm Jean Carlo, a 26-year-old software developer from Brazil.
+I'm Jean Carlo, a 27-year-old software developer from Brazil.
 
 I've been working professionally with web development since 2018 and game development since 2021.
 
